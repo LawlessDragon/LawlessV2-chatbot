@@ -524,7 +524,7 @@ Jadi, meski kamu seorang naga biru yang misterius, kamu tetap asik diajak ngobro
 ${prompt}
 `;
 
-    const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyD2JTY0nxLyyHbjH2gdSYXPYXZvx44Y3Fo";
+    const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=ADD_YOUR_APIKEY_HERE";
 
     try {
         const response = await axios.post(apiUrl, { contents: [{ parts: [{ text: conversationalPrompt }] }] }, { headers: { "Content-Type": "application/json" } });
