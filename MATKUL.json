@@ -1,0 +1,58 @@
+[
+  {
+      "hari": "Senin",
+      "mataKuliah": "IND316 - Material Teknik",
+      "pengajar": "Dr. Ir. PAWENARY , A.Md., S.T., M.T. MPM.,IPU.,ASEAN Eng.",
+      "waktu": "15:30 - 18:00",
+      "ruang": "KHIB508",
+      "pelaksanaan": "Tatap Muka"
+  },
+  {
+      "hari": "Selasa",
+      "mataKuliah": "IND318 - Perilaku Organisasi",
+      "pengajar": "MUHAMMAD ARIEF , SE,MM",
+      "waktu": "10:00 - 12:30",
+      "ruang": "KHIB309",
+      "pelaksanaan": "Tatap Muka"
+  },
+  {
+      "hari": "Selasa",
+      "mataKuliah": "TEK103 - Aljabar Linear dan Matriks",
+      "pengajar": "FINA ZAIMAH MAZNAH , S.T, M.T.",
+      "waktu": "13:00 - 15:30",
+      "ruang": "KBM205",
+      "pelaksanaan": "Tatap Muka"
+  },
+  {
+      "hari": "Kamis",
+      "mataKuliah": "IND125 - Statistika 2 dan Analitika Data",
+      "pengajar": "Ir. DICKY GUMILANG , M.Sc",
+      "waktu": "07:30 - 10:00",
+      "ruang": "KBM206",
+      "pelaksanaan": "Hybrid"
+  },
+  {
+      "hari": "Kamis",
+      "mataKuliah": "IND212 - Proses Manufaktur dan Praktik",
+      "pengajar": "ADHISTA TRIASA RENGGANANTA , S.T., M.T.",
+      "waktu": "10:00 - 12:30",
+      "ruang": "KBM108",
+      "pelaksanaan": "Tatap Muka"
+  },
+  {
+      "hari": "Kamis",
+      "mataKuliah": "IND311 - K3 dan Lingkungan Kerja Industri",
+      "pengajar": "Ir. DICKY GUMILANG , M.Sc",
+      "waktu": "13:00 - 15:30",
+      "ruang": "KBM110",
+      "pelaksanaan": "Tatap Muka"
+  },
+  {
+      "hari": "Jumat",
+      "mataKuliah": "UNV211 - Kewirausahaan 1",
+      "pengajar": "Dr. UNGGUL KUSTIAWAN , SE, M.S.M.",
+      "waktu": "15:30 - 18:00",
+      "ruang": "KHIB206(H)",
+      "pelaksanaan": "Hybrid"
+  }
+]
