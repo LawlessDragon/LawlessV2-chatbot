@@ -38,12 +38,12 @@ Di dalam grup, bot hanya bisa digunakan oleh kamu (pemilik nomor yang terdaftar)
 Ketika kamu kirim perintah di grup, bot tidak akan merespon. Ini untuk menjaga agar bot tidak mengganggu percakapan grup.
 Kamu masih bisa menggunakan .cuaca, .waktu, dan lainnya di grup, tapi bot hanya akan merespon jika kamu mengirimkan perintah di private chat.
 
-EN
-WhatsApp Bot with Weather, Class Schedule, Indonesian Time, Gemini Chatbot, and Daily Auto Response Greetings
+EN  
+WhatsApp Bot with Weather, Class Schedule, Indonesian Time, Gemini Chatbot, and Daily Auto Response Greetings  
 
 This WhatsApp bot comes with several cool features that make your daily tasks easier and more fun. Here’s a detailed guide on how to use this bot, including how the prefix works and the auto-response features!
 
-1. How to Use the Bot with Prefix
+1. How to Use the Bot with Prefix  
 This bot uses a prefix for every command. The prefix you need to use is the period "." at the beginning of each message you send to the bot. So, before you type a command, make sure to add a period.
 
 Example Commands with Prefix:
